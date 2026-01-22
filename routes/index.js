@@ -70,7 +70,7 @@ router.get('/', async function(req, res, next) {
       image: ""
     },
     {
-      name: "Abdul Rehman",
+      name: "Abdul Rahman",
       position: "Member",
       image: ""
     },
