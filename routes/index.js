@@ -82,7 +82,7 @@ router.get('/', async function(req, res, next) {
     {
       name: "Muhammed Razim PR",
       position: "Member",
-      image: ""
+      image: "https://media.istockphoto.com/id/1550071750/photo/green-tea-tree-leaves-camellia-sinensis-in-organic-farm-sunlight-fresh-young-tender-bud.jpg?s=612x612&w=0&k=20&c=RC_xD5DY5qPH_hpqeOY1g1pM6bJgGJSssWYjVIvvoLw="
     },
     {
       name: "Ajnas TKC",
